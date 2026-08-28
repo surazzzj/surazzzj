@@ -1,12 +1,3 @@
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│                 SURaj / DEVELOPER                       │
-│                                                         │
-│       CODE  ×  DESIGN  ×  DIGITAL EXPERIENCES           │
-│                                                         │
-│             MERN STACK DEVELOPER                        │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
 
 # 👋 Hi, I'm Suraj Rawat !
 
