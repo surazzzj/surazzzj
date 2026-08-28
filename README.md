@@ -2,9 +2,9 @@
 │                                                         │
 │                 SURaj / DEVELOPER                       │
 │                                                         │
-│       CODE  ×  DESIGN  ×  DIGITAL EXPERIENCES          │
+│       CODE  ×  DESIGN  ×  DIGITAL EXPERIENCES           │
 │                                                         │
-│             MERN STACK DEVELOPER                       │
+│             MERN STACK DEVELOPER                        │
 │                                                         │
 └─────────────────────────────────────────────────────────┘
 
