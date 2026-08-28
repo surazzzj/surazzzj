@@ -1,3 +1,13 @@
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│                 SURaj / DEVELOPER                       │
+│                                                         │
+│       CODE  ×  DESIGN  ×  DIGITAL EXPERIENCES          │
+│                                                         │
+│             MERN STACK DEVELOPER                       │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+
 # 👋 Hi, I'm Suraj Rawat !
 
 🎓 B.Tech CSE (2025) | 🧑‍💻 MERN Stack Developer | 🌐 Full-Stack Web Enthusiast 
