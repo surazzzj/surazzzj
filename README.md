@@ -65,7 +65,7 @@ I’m a passionate developer who enjoys building **responsive, interactive, and 
 
 ### 📄 Resume
 
-📌 [View My Resume](./SurajFinalResume.pdf)
+📌 [View My Resume](./SurajFinalResume(1).pdf)
 
 ---
 
